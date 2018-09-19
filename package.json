@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jragno918/liriBot#readme",
   "dependencies": {
-    "request": "^2.87.0"
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.87.0",
+    "twitter": "^1.7.1"
   }
 }
